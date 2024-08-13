@@ -1,33 +1,35 @@
-@import url('https://fonts.googleapis.com/css2?family=Bahianita&family=Londrina+Solid:wght@100;300;400;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
 
 *{
     margin: 0;
     padding: 0;
     font-weight: 400;
+
 }
 
-:root{
-
---branco: #f1faeeff;
---azul-claro: #a8dadcff;
---azul: #457b9dff;
---marinho: #1d3557ff;
---fonte-texto:"Bahianita", sans-serif;
---fonte-titulo: "Londrina Solid", sans-serif;
+:root {
+    --Roxo-forte: rgb(153, 238, 255);
+    --Roxo: rgb(179, 190, 197);
+    --Roxo-fraco: #5e60ceff;
+    --Azul-fraco: #5390d9ff;
+    --Azul-muito-fraco: #4ea8deff;
+    --Marinho: #48bfe3ff;
+    --fonte-texto: "Playwrite DK Uloopet", cursive;
+    --fonte-titulo: "Playwrite BE WAL", cursive;
 
 }
 body{
-    background-color: var(--branco);
-    color: var(--marinho);
+    background-color: var(--Roxo-forte);
+    color: var(--Marinho);
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    font-family: var(--fonte-texto);
+    font-family: var(--fonte-texto)
 }
 
 .caixa-principal{
-    background-color: var(--azul);
+    background-color: var(--Roxo);
     width: 90%;
     max-width: 600px;
     text-align: center;
@@ -35,20 +37,20 @@ body{
 }
 
 .titulo{
-    color: var(--azul-claro);
+    color: var(--Azul-fraco);
     font-family: var(--fonte-titulo);
 }
 
-.button{
-    background-color: darkkhaki;
-    color: brown;
+button{
+    background-color: var(--Azul-muito-fraco);
+    color: var(--Roxo-forte);
     border: none;
     border-radius: 15px;
     padding: 15px;
     transition: 0.3s;
-    margin: 10px auto;
+    margin: 10px 10px;
 }
 
 button:hover{
-    background-color: chocolate;
+    background-color: var(--Azul-fraco);
 }
