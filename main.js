@@ -6,20 +6,20 @@ const textoResultado = document.querySelector('.texto-resultado');
 
 const perguntas = [
     {
-        enunciado: "Enunciado 01",
+        enunciado: "Pedro é um garotinho negro que sofreu racismo na escola, e sua mãe ficou revoltada o que ela deve fazer",
         alternativas: [
             {
-                texto:"alternativa 01",
-                afirmacao: "resultado 01"
+                texto:"Ela deve ir na escola e falar com os diretores e responsaveis para ver se consegue resolver essa situação ",
+                afirmacao: "A mãe coversou com a diretora para resolver os problemas e tudo ficou bem por final, os dois viraram amigos"
             },
             {
-                texto:"alternativa 02",
-                afirmacao: "resultado 02"
+                texto:"Ela aconselha seu filho a bater em qualquer pessoa que fazer racismo com ele novamente",
+                afirmacao: "O menino fez racismo mais uma vez com ele mas o Pedro perdeu a paciência e partiu pra cima do menino e bateu muito nele até sangrar"
             }   
         ]
     },
     {
-        enunciado: "Enunciado 02",
+        enunciado: "Após se passar 10 anos Pedro não estava mais estudando e tinha se tornado um empresario ",
         alternativas: [
             {
                 texto: "alternativa 03",

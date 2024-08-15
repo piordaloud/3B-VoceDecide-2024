@@ -8,12 +8,12 @@
 }
 
 :root {
-    --Roxo-forte: rgb(153, 238, 255);
+    --Roxo-forte: rgb(20, 211, 249);
     --Roxo: rgb(179, 190, 197);
     --Roxo-fraco: #5e60ceff;
     --Azul-fraco: #5390d9ff;
-    --Azul-muito-fraco: #4ea8deff;
-    --Marinho: #48bfe3ff;
+    --Azul-muito-fraco: rgb(4, 35, 1);
+    --Marinho: rgb(1, 38, 152);
     --fonte-texto: "Playwrite DK Uloopet", cursive;
     --fonte-titulo: "Playwrite BE WAL", cursive;
 
