@@ -22,51 +22,51 @@ const perguntas = [
         enunciado: "Após se passar 10 anos Pedro não estava mais estudando e tinha se tornado um empresario ",
         alternativas: [
             {
-                texto: "alternativa 03",
-                afirmacao: "resultado03"
+                texto: "Pedro teve um conflito com um empregado seu e precisa resolver esse problema",
+                afirmacao: "chamou ele para conversar em um canto da sala e resolveu o problema"
             },
             {
-                texto: "alternativa 04",
-                afirmacao: "resultado 04"
+                texto: "Pedro Brigou com seu chefe e estava com serios problemas",
+                afirmacao: "Chefe de pedro deu uma advêrtencia no qual ele ficaria sem receber por 20 dias"
             }
         ]
     },
     {
-        enunciado: "Enunciado 03",
+        enunciado: "Chefe do Pedro ficou muito bravo com ele e deu um tiro em direção ao peito dele",
         alternativas: [
             {
-                texto: "alternativa 05",
-                afirmacao: "resultado 05"
+                texto: "Ele teve que sair as pressas para o hospital",
+                afirmacao: "Ficou internado por 2 meses"
             },
             {
-                texto: "alternativa 06",
-                afirmacao: "resultado 06"
+                texto: "Pedro desviou do tiro e correu para longe",
+                afirmacao: "Voltou um tempo depois e quebrou uma jarra de vidro na cabeça do seu chefe"
             }
         ]
     },
     {
-        enunciado: "Enunciado 04",
+        enunciado: "Passou mais 3 anos e depois de tudo isso ter acontecido eles voltaram a ser amigos",
         alternativas: [
             {
-                texto: "alternativa 07",
-                afirmacao: "resultado 07"
+                texto: "seu antigo chefe fez um novo convite para ele voltar a empresa",
+                afirmacao: "Pedro aceitou e eles seguiram normalmente"
             },
             {
-                texto: "alternativa 08",
-                afirmacao: "resultado 08"
+                texto: "Voltou a trabalhar na empresa mas estava acontecendo um problema bem antigo com ele novamente",
+                afirmacao: "pedro estava sofrendo racismo na empresa, assim como um dia ele ja sofreu na infância"
             }
         ]
     },
     {
-        enunciado: "Enunciado 05",
+        enunciado: "Pedro cansou de tudo isso e resolveu pedir demissão",
         alternativas: [
             {
-                texto: "alternativa 09",
-                afirmacao: "resultado 09"
+                texto: "Pedro seguiu sua vida bela normalmente",
+                afirmacao: "longe de problemas ele apenas queria viver em um mundo sem racismo e difamação apenas por ter pele mais escura"
             },
             {
-                texto: "alternativa 10",
-                afirmacao: "resultado 10"
+                texto: "Sua vida foi muito triste dali em diante",
+                afirmacao: "Pedro viveu para o resto da sua vida sofrendo com racismo mas sempre lutando por seus direitos"
             }
         ]
     },
